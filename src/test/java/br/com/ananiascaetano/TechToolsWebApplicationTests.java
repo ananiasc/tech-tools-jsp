@@ -1,4 +1,4 @@
-package br.com.ananiascaetano.TechToolsWeb;
+package br.com.ananiascaetano;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
