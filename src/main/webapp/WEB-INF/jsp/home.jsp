@@ -3,9 +3,13 @@
 <html>
 <head>
     <title>Página Inicial</title>
-<%--    <link href="<c:url value="/css/common.css"/>" rel="stylesheet" type="text/css">--%>
+    <link href="<c:url value='/css/tailwind.min.css' />" rel="stylesheet">
 </head>
 <body>
-    <h1>Página Inicial</h1>
+    <div class="container mx-auto">
+        <h1 class="text-3xl font-bold underline text-center">
+            Olá, mundo!
+        </h1>
+    </div>
 </body>
 </html>
